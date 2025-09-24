@@ -11,7 +11,7 @@
         "username": "latif",
         "password": "12345",
         "expirydate": "30-11-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device_id_2",
