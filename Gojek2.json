@@ -1,23 +1,23 @@
 [
-  {
-    "id": "6d95fal7c7e40ea",
-    "username": "12345",
-    "password": "12345",
-    "expiresAt": "2027-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "426d57f91f0ba5b1",
-    "username": "off",
-    "password": "12345",
-    "expiresAt": "2025-9-20",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2027-11-30",
-    "allowOffline": false
-  }
+    {
+        "device_id": "device_id_1",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "15-06-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a52fa3c05395a73d",
+        "username": "gatot",
+        "password": "12345",
+        "expirydate": "15-11-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device_id_2",
+        "username": "user2",
+        "password": "pass123",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
